@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=sukanya011048e&color=blue)
 <img
-src=" width="100" height="100" />
+src="![Uploading image.png…]()
+" width="100" height="100" />
 Hi 👋 My name is sukanya
 ========================
 
